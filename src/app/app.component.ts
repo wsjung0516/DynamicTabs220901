@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'DynamicTabs220901';
+  title = 'dynamic-tab190526';
 }

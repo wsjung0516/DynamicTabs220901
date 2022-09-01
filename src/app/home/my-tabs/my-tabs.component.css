@@ -1,0 +1,11 @@
+.tab-close {
+  color: gray;
+  text-align: right;
+  cursor: pointer;
+}
+.nav-item {
+  background: darkolivegreen;
+}
+.nav-link.active {
+  background: greenyellow;
+}
